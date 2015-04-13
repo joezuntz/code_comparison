@@ -20,8 +20,8 @@ def execute(block, config):
 	np.savetxt(outdir+"/growth.txt", np.transpose([z,d]))
 
 	#b) Comoving radial distance [Mpc/h] at z = 0,1,2,3,4,
-	z = block['distances', 'z']
-	d_m = block['distances', 'z']
+	z = block['distances', 'z'][::-1]
+	d_m = block['distances', 'd_m'][::-1]
 	h0 = block['cosmological_parameters', 'h0']
 	d_m *= h0
 	z_sample = [0., 1., 2., 3., 4.]
