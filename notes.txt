@@ -1,0 +1,24 @@
+Round 1 code comparison:
+
+a) Growth factor at z = 0,1,2,3,4,5
+b) Comoving radial distance [Mpc/h] at z = 0,1,2,3,4,5
+c) Linear matter power spectrum [(Mpc/h)^3] at z = 0,1,2,3; 1.e-3 h/Mpc <= k <= 10, 10 bins/decade
+d) Halo mass function at \Delta = 200 \bar{\rho}_m: n(M)*M^2/\bar{\rho}_m at z = 0,1,2,3; 1.e+10 M_sun/h <= M <= 1.e+16 M_sun/h, 10 bins/decade
+e) Halo bias at \Delta = 200 \bar{\rho}_m: z = 0,1,2,3; 1.e+10 M_sun/h <= M <= 1.e+16 M_sun/h, 10 bins/decade
+
+Cosmological Models:
+Model1 (flat LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, n_s = 0.96, w_0 = -1.0, w_a = 0.0
+
+Model2 (w0 LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, n_s = 0.96, w_0 = -0.9, w_a = 0.0
+
+Model3 (wa LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, n_s = 0.96, w_0 = -0.9, w_a = 0.1
+
+Model4 (closed LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.73, h0 = 0.7, sigma_8 = 0.8, n_s = 0.96, w_0 = -1.0, w_a = 0.0
+
+Model5 (open LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.67, h0 = 0.7, sigma_8 = 0.8, n_s = 0.96, w_0 = -1.0, w_a = 0.0
+
+Please let me know if you have any comments or suggestions to make this code comparison more useful, and contact me with any questions that come up in the process.
+
+Thank you for taking part in this project.
+Cheers,
+Elisabeth

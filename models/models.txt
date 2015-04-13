@@ -1,0 +1,16 @@
+
+
+Model1 (flat LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, 
+n_s = 0.96, w_0 = -1.0, w_a = 0.0
+
+Model2 (w0 LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, 
+n_s = 0.96, w_0 = -0.9, w_a = 0.0
+
+Model3 (wa LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.7, h0 = 0.7, sigma_8 = 0.8, 
+n_s = 0.96, w_0 = -0.9, w_a = 0.1
+
+Model4 (closed LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.73, h0 = 0.7, sigma_8 = 0.8, 
+n_s = 0.96, w_0 = -1.0, w_a = 0.0
+
+Model5 (open LCMD): Omega_m = 0.3, Omega_b = 0.05, Omega_v = 0.67, h0 = 0.7, sigma_8 = 0.8, 
+n_s = 0.96, w_0 = -1.0, w_a = 0.0
